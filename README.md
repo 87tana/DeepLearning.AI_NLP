@@ -8,4 +8,11 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
   - Utilize vector space models to unveil intricate word relationships.
   - Apply PCA for dimensionality reduction and visualization.
   - Create an English to French translation algorithm leveraging pre-computed word embeddings and locality-sensitive hashing.
+ 
+- **Week 2 - Language Models and Sequence-to-Sequence Architectures:**
+
+  - Dive into language models and their role in NLP applications.
+  - Explore sequence-to-sequence architectures for tasks like language translation.
+  - Uncover the power of attention mechanisms in enhancing model performance.
+
 
