@@ -16,3 +16,16 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
   - Uncover the power of attention mechanisms in enhancing model performance.
 
 
+- **Week 3 - Natural Language Understanding:**
+
+  - Delve into natural language understanding (NLU) and its significance.
+  - Study techniques for extracting information and meaning from text.
+  - Apply neural network models to enhance NLU capabilities.
+
+- **Week 4 - Chatbots and Advanced NLP Applications:**
+
+  - Explore the exciting realm of chatbot development.
+  - Learn how to build chatbots using advanced NLP techniques.
+  - Gain insights into the challenges and opportunities in deploying NLP applications at scale.
+
+
