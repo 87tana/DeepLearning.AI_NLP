@@ -11,9 +11,6 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
 
 - **Course 3 - NLP with sequence Models:**
 
-  - Delve into natural language understanding (NLU) and its significance.
-  - Study techniques for extracting information and meaning from text.
-  - Apply neural network models to enhance NLU capabilities.
 
 - **Course 4 - NLP with attention Models:**
 
