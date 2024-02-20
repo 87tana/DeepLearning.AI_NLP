@@ -14,8 +14,5 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
 
 - **Course 4 - NLP with attention Models:**
 
-  - Explore the exciting realm of chatbot development.
-  - Learn how to build chatbots using advanced NLP techniques.
-  - Gain insights into the challenges and opportunities in deploying NLP applications at scale.
 
 
