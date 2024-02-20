@@ -19,7 +19,7 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
   - Study techniques for extracting information and meaning from text.
   - Apply neural network models to enhance NLU capabilities.
 
-- **Course 4 - Chatbots and Advanced NLP Applications:**
+- **Course 4 - NLP with attention Models:**
 
   - Explore the exciting realm of chatbot development.
   - Learn how to build chatbots using advanced NLP techniques.
