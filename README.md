@@ -13,7 +13,7 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
   - Uncover the power of attention mechanisms in enhancing model performance.
 
 
-- **Course 3 - Natural Language Understanding:**
+- **Course 3 - NLP with sequence Models:**
 
   - Delve into natural language understanding (NLU) and its significance.
   - Study techniques for extracting information and meaning from text.
