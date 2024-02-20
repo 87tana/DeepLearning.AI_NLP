@@ -6,7 +6,7 @@ Embark on a transformative journey through the Natural Language Processing (NLP)
 
 
  
-- **Course 2 - Language Models and Sequence-to-Sequence Architectures:**
+- **Course 2 - NLP with probabilistic Models:**
 
   - Dive into language models and their role in NLP applications.
   - Explore sequence-to-sequence architectures for tasks like language translation.
